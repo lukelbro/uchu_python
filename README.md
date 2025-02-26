@@ -1,3 +1,20 @@
+# Fork of uchu for compatibility with python
+
+```
+pip install git+https://github.com/lukelbro/uchu_python.git
+```
+
+Example usage
+```
+import uchu
+
+print(uchu.red)       # Base red color
+print(uchu.reddark)   # Darker shade of red
+print(uchu.redlight)  # Lighter shade of red
+```
+
+
+
 # Overview
 
 ![](./demo/asset/image/og.png)
