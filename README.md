@@ -1,5 +1,5 @@
 # Fork of uchu for compatibility with python
-
+Colors are converted to Hex. You said fork so I forked.
 ```
 pip install git+https://github.com/lukelbro/uchu_python.git
 ```
