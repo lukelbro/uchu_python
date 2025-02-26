@@ -6,7 +6,7 @@ bluelight  = uchu.bluelight
 
 # General colors (non-standard names)
 yang       = uchu.yang
-yin        = uchu.generalyin
+yin        = uchu.yin
 
 # Gray
 gray       = uchu.gray
