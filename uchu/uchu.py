@@ -64,7 +64,7 @@ def oklch_to_rgb(oklch_str):
     return '#{:02x}{:02x}{:02x}'.format(r_int, g_int, b_int)
 
 
-class favcolors:
+class uchu:
     # Blue
     blue       = oklch_to_rgb("oklch(62.39% 0.181 258.33)")
     bluedark   = oklch_to_rgb("oklch(43.48% 0.17 260.2)")
