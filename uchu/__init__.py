@@ -44,4 +44,4 @@ yellowdark   = uchu.yellowdark
 yellowlight  = uchu.yellowlight
 
 # Yin (separate from general)
-yinlight  = uchu.yin_light
+yinlight  = uchu.yinlight
